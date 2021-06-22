@@ -5,6 +5,12 @@ function Chat() {
     return (
         <div className='chat'>
             <h1>Chat</h1>
+            <div className="sidebar__header">
+                <div className="sidebar__headerRight">
+                    
+                </div>
+
+            </div>
         </div>
     )
 }
